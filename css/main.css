@@ -402,6 +402,19 @@ footer{
     font-size: 14px;
     padding: 10px 0;
 }
+
+footer div .icon1{
+    color: blue;
+}
+footer div .icon2{
+   color: red;
+}
+footer div .icon3{
+    color: rgb(96, 174, 204);
+}
+footer div .icon4{
+    color: darkblue;
+}
 footer i:hover{
     color: white;
 }
@@ -412,7 +425,7 @@ footer div .icon2:hover{
    background-color: red;
 }
 footer div .icon3:hover{
-    background-color: rgb(88, 147, 170);
+    background-color: rgb(96, 174, 204);
 }
 footer div .icon4:hover{
     background-color: darkblue;
@@ -428,8 +441,7 @@ footer div .icon4:hover{
     border:1px solid #cec4b5 ;
 }
 footer i{
-    color: #969696;
-    background-color: #403d38;
+    background-color: #fff;
 }
 .page-icon {
     text-align: center;
